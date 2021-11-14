@@ -1,0 +1,12 @@
+npm init
+npm install -D typescript
+npm install -D tslint
+npm install -S express
+npm install -D @types/express
+./node_modules/.bin/tslint --init
+
+npm install eslint --save-dev
+npx eslint --init
+npm install mongodb
+
+npm install eslint --save-dev
